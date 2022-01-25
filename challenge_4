@@ -1,0 +1,5 @@
+1. Type of Error: NameError (uninitialized constant DockingStation)
+2. file path where error came from: /Users/eddiearnold/.rvm/rubies/ruby-3.0.0/bin/irb
+3. line where error ocurred: 23
+4. The constant DockingStation is not valid. There is no class DockingStation from which to create an instance.
+5. We can create a class called DockingStation so that new instances can be created
